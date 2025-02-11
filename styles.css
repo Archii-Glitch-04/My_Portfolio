@@ -92,3 +92,13 @@ h3 {
     color: #333;
     font-size: 22px;
 }
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #f4c2c2;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+}
